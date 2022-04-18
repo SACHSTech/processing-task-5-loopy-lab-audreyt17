@@ -2,7 +2,7 @@ import processing.core.PApplet;
 
 /*
 * Description: A program that draws 8 different squares with a unique pattern in each.
-* Author: @TaoA
+* @author: TaoA
 */
 
 public class Sketch extends PApplet {
